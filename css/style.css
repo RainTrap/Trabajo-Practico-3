@@ -1,0 +1,21 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#contenedor{
+				margin: auto;
+				background: white;
+}
+
+ h1{
+ 	text-align: center;
+	font: bold 40px Arials ;
+	padding: 20px;
+ }
+
+ .historia{
+ 	padding: 10px;
+ 	background:  #FFE4A5;
+ }
+
