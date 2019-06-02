@@ -5,17 +5,100 @@
 
 #contenedor{
 				margin: auto;
-				background: white;
+				background:  white  ;
 }
 
- h1{
+/*Sobre Nosotros*/
+
+ h2{
  	text-align: center;
-	font: bold 40px Arials ;
+	font-size: 50px ;
+	font-family : 'Yeseva One', cursive;
 	padding: 20px;
+
  }
+
+p{
+	font-family: 'Noto Serif', serif;
+	font-size: 25px;
+}
 
  .historia{
- 	padding: 10px;
- 	background:  #FFE4A5;
+ 	
+ 	height: 600px;
+ 	text-align: center;
+ 	background:  #F8F4EF  ;
+ 	padding: 100px 10px;
+
  }
 
+ /*Contacto*/
+
+.aseguradoras{
+	background:  #797774;
+	height: 600px;
+ 	text-align: center;
+ 	padding: 100px 10px;
+ 	color: white;
+}
+
+
+.contacto{
+	background: #FFE583   ;
+	height: 590px;
+	padding: 50px 10px;
+
+}
+
+#texto{
+	text-align: center;
+}
+
+#texto input{
+		margin: 5px;
+		padding: 10px;
+		font: 17px serif;
+		height: 50px;
+		width: 280px;
+		box-shadow: 2px 2px 10px #666; 
+		border-radius: 10px;
+		
+
+}
+
+#input_ase{
+	padding: 20px;
+	font: 20px serif;
+	margin: 10px;
+	height: 100px;
+	float: left;
+	
+}
+
+textarea{
+		margin: 20px 60px 20px 400px;
+		padding: 10px;
+		font: 17px serif;
+		height: 150px;
+		width: 380px;
+		box-shadow: 2px 2px 2px #666; 
+		border-radius: 10px;
+		float: left;
+}
+
+
+#boton {
+	clear: both;
+	text-align: center;
+}
+
+#boton input{
+	
+	text-align: center;
+    padding: 10px 40px;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px #666; 
+    background: #F39C12;
+
+
+}
