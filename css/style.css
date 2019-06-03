@@ -18,6 +18,12 @@
 
  }
 
+ h3{
+ 	text-align: center;
+ 	font-size: 25px;
+ 	font-family: 'Noto Serif', serif;
+ }
+
 p{
 	font-family: 'Noto Serif', serif;
 	font-size: 25px;
@@ -96,9 +102,20 @@ textarea{
 	
 	text-align: center;
     padding: 10px 40px;
+    margin: 25px;
     border-radius: 3px;
     box-shadow: 2px 2px 2px #666; 
     background: #F39C12;
 
+}
 
+#ubicacion{
+	background: #C6C6C6;
+	height: 650px;
+	padding: 50px 10px;
+}
+
+.iframe{
+	padding: 20px;
+	text-align: center;
 }
