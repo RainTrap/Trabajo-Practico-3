@@ -52,6 +52,7 @@ p{
 
 #texto{
 	text-align: center;
+	padding-top: 10px
 }
 
 #texto input{
@@ -62,21 +63,20 @@ p{
 		width: 280px;
 		box-shadow: 2px 2px 10px #666; 
 		border-radius: 10px;
-		
-
 }
 
+
 #input_ase{
-	padding: 20px;
+	padding: 10px;
 	font: 20px serif;
-	margin: 10px;
-	height: 100px;
+	margin: 5px;
+	height: 50px;
 	float: left;
 	
 }
 
 textarea{
-		margin: 20px 60px 20px 400px;
+		margin: 20px 10px 20px 400px;
 		padding: 10px;
 		font: 17px serif;
 		height: 150px;
