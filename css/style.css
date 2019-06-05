@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px&display=swap');
+
 * {
 	margin: 0px;
 	padding: 0px;
@@ -13,8 +15,8 @@
  h2{
  	text-align: center;
 	font-size: 50px ;
-	font-family : 'Yeseva One', cursive;
-	padding: 20px;
+	font-family: 'Slabo 27px', serif;;
+	padding: 0px;
 
  }
 
@@ -26,26 +28,34 @@
 
 p{
 	font-family: 'Noto Serif', serif;
-	font-size: 25px;
+	font-size: 30px;
 }
 
  .historia{
  	
- 	height: 600px;
+ 	height: 500px;
  	text-align: center;
- 	background:  #F8F4EF  ;
+ 	background:  #FFCA82 ;
  	padding: 100px 10px;
-
+	
  }
+
+.p_historia{
+	font-family: 'Noto Serif', serif;
+	font-size: 30px;
+	width: 1100px;
+	margin: 0px 120px; 
+}
+
 
  /*Contacto*/
 
 .aseguradoras{
-	background:  #797774;
-	height: 600px;
+	background: #625E5B;
+	height: 550px;
  	text-align: center;
  	padding: 100px 10px;
- 	color: white;
+ 	color: #ffffff ;
 }
 
 
@@ -80,6 +90,7 @@ p{
 	float: left;
 	
 }
+
 
 textarea{
 		margin: 20px 10px 20px 400px;
@@ -117,6 +128,39 @@ textarea{
 
 .iframe{
 	padding: 20px;
+	text-align: center;
+}
+
+.ul{
+	text-align: left;
+	margin: 30px 500px;
+	font-family: 'Noto Serif', serif;
+	font-size: 30px;
+}
+
+.materiales{
+	 background: #FFF2D6;
+	 height: 500px;
+	 padding: 100px
+}
+
+.p_materiales{
+	text-align: center;
+	font-family: 'Noto Serif', serif;
+	font-size: 30px;
+  	width: 700px;
+  	margin: 40px 250px;
+}
+
+.servicios{
+	 background:  #FFCA82 ;
+	 height: 500px;
+	 padding: 100px 10px 0px 10px;
+}
+
+.p_servicios{
+	font-family: 'Noto Serif', serif;
+	font-size: 30px;
 	text-align: center;
 }
 
