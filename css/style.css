@@ -111,7 +111,7 @@ textarea{
 
 #ubicacion{
 	background: #C6C6C6;
-	height: 650px;
+	height: 660px;
 	padding: 50px 10px;
 }
 
@@ -120,3 +120,25 @@ textarea{
 	text-align: center;
 }
 
+#pie{
+	background: #484646 ;
+	border-radius: 2px;
+	height: 95px;
+}
+
+#pie p{
+		color: #ffffff ;
+    	font: 15px serif;
+	}
+
+.parrafo{
+	padding: 20px 200px;
+	float: left;
+}
+
+.RedesSociales{
+	padding: 30px 300px;
+	text-align: right;
+	margin: 3px; 
+	
+}
