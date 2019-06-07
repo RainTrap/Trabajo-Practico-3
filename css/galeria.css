@@ -90,3 +90,25 @@
     border-radius: 50%;
     line-height: 25px;
 }
+
+#pie{
+    background:  #564F44;
+    height: 100px;
+}
+
+.parrafo{
+    color: white;
+    font-family: 'Noto Serif', serif;
+    padding: 20px 200px;
+    float: left;
+}
+
+.parrafo p{
+    font-size: 15px;
+}
+
+.RedesSociales{
+    padding: 30px 100px 10px 900px;
+
+}
+

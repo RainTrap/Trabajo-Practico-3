@@ -6,8 +6,8 @@
 }
 
 #contenedor{
-				margin: auto;
-				background:  white  ;
+	margin: auto;
+	background:  white  ;
 }
 
 /*Sobre Nosotros*/
@@ -31,7 +31,7 @@ p{
 	font-size: 30px;
 }
 
- .historia{
+.historia{
  	
  	height: 500px;
  	text-align: center;
@@ -130,3 +130,58 @@ textarea{
 	padding: 20px;
 	text-align: center;
 }
+
+.ul{
+    text-align: left;
+    margin: 30px 500px;
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+}
+
+.materiales{
+     background: #FFF2D6;
+     height: 500px;
+     padding: 100px
+}
+
+.p_materiales{
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+      width: 700px;
+      margin: 40px 250px;
+}
+
+.servicios{
+     background:  #FFCA82 ;
+     height: 500px;
+     padding: 100px 10px 0px 10px;
+}
+
+.p_servicios{
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#pie{
+	background:  #564F44;
+	height: 100px;
+}
+
+.parrafo{
+	color: white;
+	font-family: 'Noto Serif', serif;
+    padding: 20px 200px;
+    float: left;
+}
+
+.parrafo p{
+	font-size: 15px;
+}
+
+.RedesSociales{
+	padding: 30px 100px 10px 900px;
+
+}
+
